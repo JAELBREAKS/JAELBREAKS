@@ -5,6 +5,6 @@
   <p align="center">- <b>I am actively learning:</b> Python, C++, Java, HTML, JavaScript, CSS!</p>
   <h3 align="center">Connect with me!</h3>
   <div align="center">
-    <a href="https://www.linkedin.com/in/jaedyn-boongaling-614463387/" target="_blank">Linkedin</a> |
-    <a href="https://www.facebook.com/jaedyn.boongaling" target="_blank">Facebook</a>
+    <a href="https://www.linkedin.com/in/jaedyn-boongaling-614463387/">Linkedin</a> |
+    <a href="https://www.facebook.com/jaedyn.boongaling">Facebook</a>
   </div>
